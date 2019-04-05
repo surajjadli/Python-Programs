@@ -1,3 +1,5 @@
+# pyhton program to reverse each string or item in list
+
 def rev_lst_itm(l):
     new_lst = []
     for i in l:

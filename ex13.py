@@ -15,5 +15,6 @@ lst = [1,2,3,4]
 print(lst)
 print(rev_lst(lst))
 
+#using pop
 print(lst)
 print(revlst(lst))
